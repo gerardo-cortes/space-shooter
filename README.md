@@ -7,6 +7,8 @@ This is a **Space Shooter** game done to showcase vanilla JavaScript.
 
 ![screenshot](game-screenshot.png)
 
+[Play the Game!](http://cortes-gerardo.com/space-shooter/index.html)
+
 _Original project by [Frederik De Bleser](https://github.com/fdb)._
 
 ---
