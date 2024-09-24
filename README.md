@@ -1,4 +1,4 @@
-# Space Shooter
+# 🚀 Space Shooter
 
 ## Description
 Fight the enemy ships before they destroy you, use the arrow keys to move, and the space bar to shoot.
